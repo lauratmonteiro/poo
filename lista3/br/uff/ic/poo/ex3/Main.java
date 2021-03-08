@@ -16,7 +16,7 @@ public class Main {
 
         Data data5 = new Data(365, 1990);
         data5.imprimirDDDAAAA();
-        
+
         Data data6 = new Data("Agosto", 3, 1965);
         data6.imprimirMesDDAAAA();
 
